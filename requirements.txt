@@ -1,0 +1,8 @@
+numpy
+pandas
+psycopg2
+glove
+gensim
+scipy
+tqdm
+scikit-learn
