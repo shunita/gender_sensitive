@@ -4,5 +4,5 @@ as described in "Gender-Sensitive Word Embeddings for Healthcare", submitted to 
 
 ## Prerequisites:
 1. A unix OS
-1. Install metamap from here (required for data preprocessing): https://metamap.nlm.nih.gov/
-
+1. For data preprocessing (from plain text pubmed abstracts to text with UMLS concepts): install metamap from https://metamap.nlm.nih.gov/ .
+1. For evaluation on MIMIC-III tasks, first get MIMIC-III access and download the MIMIC-III dataset.
